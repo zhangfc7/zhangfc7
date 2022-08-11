@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
+
