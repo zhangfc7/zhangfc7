@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zhangfc7/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfc7)](https://github.com/zhangfc7/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfc7)](https://github.com/zhangfc7/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfc7&layout=compact)](https://github.com/zhangfc7/github-readme-stats)
 
