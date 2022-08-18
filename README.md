@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-306-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-310-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -69,8 +69,8 @@ GitIgnore file           1 min               ░░░░░░░░░░░�
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 💻 Operating System: 
-Windows                  5 hrs 3 mins        ████████████████████████░   95.82% 
-Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
+Windows                  5 hrs 3 mins        ████████████████████████░   95.8% 
+Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
 
 ```
 
@@ -85,7 +85,7 @@ Python                   1 repo              ██████░░░░░�
 
 
 
- Last Updated on 17/08/2022 18:50:49 UTC
+ Last Updated on 18/08/2022 18:48:34 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
