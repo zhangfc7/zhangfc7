@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-310-blue)
 
@@ -64,13 +64,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 8 mins        ████████████████████████░   99.24% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Python                   11 hrs 57 mins      ████████████████████████░   97.84% 
+GitIgnore file           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+AUTO_DETECTED            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-Windows                  5 hrs 3 mins        ████████████████████████░   95.8% 
-Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+Windows                  9 hrs 16 mins       ██████████████████░░░░░░░   75.37% 
+Linux                    3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.63%
 
 ```
 
@@ -85,7 +87,7 @@ Python                   1 repo              ██████░░░░░�
 
 
 
- Last Updated on 18/08/2022 18:48:34 UTC
+ Last Updated on 19/08/2022 18:52:22 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
