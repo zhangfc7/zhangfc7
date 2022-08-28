@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-263-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -64,30 +64,29 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 27 mins       ███████████████████████░░   94.66% 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+Python                   4 hrs 6 mins        ████████████████████░░░░░   79.79% 
+Text                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
+Shell Script             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       ███████████████████████░░   91.86% 
-Linux                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14%
+Windows                  5 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
 
 ```
 
 
 
- Last Updated on 27/08/2022 18:47:25 UTC
+ Last Updated on 28/08/2022 18:47:53 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
