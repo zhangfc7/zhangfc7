@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-               佛祖保佑         永无BUG
-
 
 
 
