@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,15 +62,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 41 mins       █████████████████░░░░░░░░   70.98% 
-Text                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-Shell Script             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
+Python                   5 hrs 11 mins       ██████████████████░░░░░░░   72.7% 
+Text                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
+Shell Script             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       ███████████████████████░░   95.02% 
-Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
+Windows                  6 hrs 24 mins       ██████████████████████░░░   89.73% 
+Linux                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.27%
 
 ```
 
@@ -85,7 +85,7 @@ Python                   2 repos             ████████░░░�
 
 
 
- Last Updated on 31/08/2022 18:48:57 UTC
+ Last Updated on 01/09/2022 18:51:36 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
