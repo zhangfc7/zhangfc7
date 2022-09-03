@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -62,15 +62,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 43 mins       ██████████████████░░░░░░░   74.64% 
-Text                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-GitIgnore file           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
+Python                   7 hrs 49 mins       ██████████████████░░░░░░░   73.48% 
+Text                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
+YAML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.9% 
+Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
 
 💻 Operating System: 
-Windows                  4 hrs 57 mins       ████████████████░░░░░░░░░   64.71% 
-Linux                    2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   35.29%
+Linux                    5 hrs 22 mins       ████████████░░░░░░░░░░░░░   50.5% 
+Windows                  5 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.5%
 
 ```
 
@@ -85,7 +85,7 @@ Python                   2 repos             ████████░░░�
 
 
 
- Last Updated on 02/09/2022 18:49:47 UTC
+ Last Updated on 03/09/2022 18:47:52 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
