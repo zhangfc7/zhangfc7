@@ -52,9 +52,27 @@ Here are some ideas to get you started:
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs               █████████████████████░░░░   84.65% 
+YAML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+
+💻 Operating System: 
+Linux                    4 hrs 47 mins       ████████████████░░░░░░░░░   67.49% 
+Windows                  2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.51%
+
+```
 
 **I Mostly Code in HTML** 
 
@@ -67,7 +85,7 @@ Python                   2 repos             ████████░░░�
 
 
 
- Last Updated on 04/09/2022 18:47:43 UTC
+ Last Updated on 05/09/2022 18:51:05 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
