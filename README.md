@@ -32,12 +32,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ██████████████████████░░░   88.21% 
-textmate                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79%
+Python                   1 hr 39 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        ███████████████████░░░░░░   78.58% 
-Linux                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42%
+Windows                  1 hr 39 mins        █████████████████████████   100.0%
 
 ```
 
@@ -52,7 +50,7 @@ Python                   2 repos             ████████░░░�
 
 
 
- Last Updated on 15/09/2022 18:52:04 UTC
+ Last Updated on 16/09/2022 18:55:48 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
