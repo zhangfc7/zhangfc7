@@ -42,15 +42,15 @@ Windows                  2 hrs 26 mins       ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
+HTML                     3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
 
 ```
 
 
 
- Last Updated on 17/09/2022 18:51:22 UTC
+ Last Updated on 18/09/2022 18:51:56 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
