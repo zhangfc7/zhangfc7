@@ -24,7 +24,23 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 hrs 23 mins       ███████████████████████░░   94.97% 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+
+💻 Operating System: 
+Windows                  3 hrs 22 mins       ███████████████████████░░   94.5% 
+Linux                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.5%
+
+```
 
 **I Mostly Code in HTML** 
 
@@ -37,7 +53,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 27/09/2022 19:00:59 UTC
+ Last Updated on 28/09/2022 18:59:27 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
