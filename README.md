@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       █████████████████████████   99.9% 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Python                   59 mins             █████████████████████████   99.75% 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.0%
+Windows                  59 mins             █████████████████████████   100.0%
 
 ```
 
@@ -52,7 +52,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 07/10/2022 18:58:36 UTC
+ Last Updated on 08/10/2022 18:53:48 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
