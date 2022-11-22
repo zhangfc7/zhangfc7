@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 22 mins       █████████████████████████   100.0%
+Python                   5 hrs 9 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.0%
+Linux                    5 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -50,7 +50,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 21/11/2022 18:46:43 UTC
+ Last Updated on 22/11/2022 18:46:46 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
