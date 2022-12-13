@@ -26,6 +26,23 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 41 mins       ████████████████████████░   97.52% 
+textmate                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37% 
+AUTO_DETECTED            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+
+💻 Operating System: 
+Linux                    1 hr 27 mins        █████████████░░░░░░░░░░░░   52.74% 
+Windows                  1 hr 18 mins        ███████████░░░░░░░░░░░░░░   47.26%
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -37,7 +54,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 12/12/2022 18:43:03 UTC
+ Last Updated on 13/12/2022 18:42:45 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
