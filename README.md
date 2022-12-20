@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 38 mins       ████████████████░░░░░░░░░   66.44% 
-textmate                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
-Shell Script             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+Python                   2 hrs 11 mins       ████████████████░░░░░░░░░   65.97% 
+textmate                 47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+Shell Script             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 
 💻 Operating System: 
-Linux                    3 hrs 59 mins       █████████████████████████   100.0%
+Linux                    3 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -54,7 +54,7 @@ Python                   2 repos             ███████░░░░�
 
 
 
- Last Updated on 19/12/2022 18:40:51 UTC
+ Last Updated on 20/12/2022 18:40:57 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
