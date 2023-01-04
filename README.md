@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![zhangfc7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfc7&show_icons=true&theme=graywhite)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 35 mins       ███████████████████████░░   93.93% 
-GitIgnore file           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+Python                   7 hrs 46 mins       ███████████████████████░░   94.07% 
+GitIgnore file           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 💻 Operating System: 
-Linux                    8 hrs 4 mins        █████████████████████████   100.0%
+Linux                    8 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -52,7 +52,7 @@ Python                   2 repos             ██████░░░░░�
 
 
 
- Last Updated on 03/01/2023 18:40:22 UTC
+ Last Updated on 04/01/2023 18:41:42 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
