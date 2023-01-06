@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 46 mins       ███████████████████████░░   94.07% 
-GitIgnore file           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+Python                   4 hrs 45 mins       ████████████████████████░   98.63% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    8 hrs 16 mins       █████████████████████████   100.0%
+Linux                    4 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -52,7 +52,7 @@ Python                   2 repos             ██████░░░░░�
 
 
 
- Last Updated on 05/01/2023 18:41:37 UTC
+ Last Updated on 06/01/2023 18:41:39 UTC
 <!--END_SECTION:waka-->
 
 [![zhangfc7's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhangfc7&theme=github-light)](https://github.com/zhangfc7/github-readme-activity-graph)
